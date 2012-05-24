@@ -1,6 +1,7 @@
 body {
   font-family: MetaBold,Trebuchet MS,sans-serif;
   margin: 0;
+  min-width: 900px;
 }
 
 #wrap {
@@ -53,11 +54,12 @@ div#logo {
 
 #content {
   background: #FFFFFF;
-  margin: 0 6%;
+  margin: auto;
+  width: 1000px;
 }
 
 #main {
-width: 66%;
+width: 650px;
 float: left;
 }
 
@@ -157,7 +159,7 @@ center center;
 }
 
 #sidebar {
-  width: 30%;
+  width: 334px;
   padding: 3% 0;
   float: right;
 }

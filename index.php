@@ -89,8 +89,37 @@
 
                     </div>
       
-                    <p class="intro">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-      
+                    <div class="womanifesto">
+                        <ul>
+                        <li class="level1"><div class="li"> We are a community composed of members from different Open Source projects. We are dedicated to improving women's visibility and involvement in <acronym title="Free/Libre and Open Source Software">FLOSS</acronym> <sup><a class="fn_top" id="fnt__1" name="fnt__1" href="#fn__1">1)</a></sup> and <a rel="nofollow" title="http://www.mozilla.org/" class="urlextern" href="http://www.mozilla.org/">Mozilla</a>, and to increase the number of women contributors.</div>
+                        </li>
+                        </ul>
+                        <ul>
+                        <li class="level1"><div class="li"> Anyone can participate in this project, regardless of sex, age, job, etc. </div>
+                        </li>
+                        </ul>
+                        <ul>
+                        <li class="level1"><div class="li"> We are united by the common goal of promoting women's visibility and involvement in open source communities.</div>
+                        </li>
+                        </ul>
+                        <ul>
+                        <li class="level1"><div class="li"> We believe that the Internet, <acronym title="Free/Libre and Open Source Software">FLOSS</acronym> projects and computing must remain <strong>open</strong> and <strong>participatory</strong>. This also means accessible in the same way to all - women and men alike.</div>
+                        </li>
+                        </ul>
+                        <ul>
+                        <li class="level1"><div class="li"> As the <a rel="nofollow" title="http://www.mozilla.org/about/manifesto.en.html" class="urlextern" href="http://www.mozilla.org/about/manifesto.en.html">Mozilla Manifesto</a> underlines, we believe that all individuals must have the ability to shape their own experiences on the Internet. Let's give everyone the same opportunity to do so.</div>
+                        </li>
+                        </ul>
+                        <ul>
+                        <li class="level1"><div class="li"> We believe solutions should continuously be proposed in order to improve the visibility of all minorities, who for various reasons might not have equal access to computers or the Internet. This project is an example of this, as it aims at ameliorating women's presence and participation in Mozilla and open source. </div>
+                        </li>
+                        </ul>
+                        <ul>
+                        <li class="level1"><div class="li"> We believe Open Source needs more women!</div>
+                        </li>
+                        </ul>
+
+</div>
                 </div>
     
                 <div id="sidebar">

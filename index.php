@@ -14,6 +14,7 @@
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
         <script type="text/javascript" src="lib/jquery.easing.1.3.js"></script>
         <script type="text/javascript" src="lib/jquery.CarouSlide.min.js"></script>
+        <link href="//www.mozilla.org/tabzilla/media/css/tabzilla.css" rel="stylesheet" />
         <script type="text/javascript">
             $(document).ready(function(){
                 $(".s1").CarouSlide({
@@ -29,6 +30,7 @@
     <body>
 
         <div id="wrap">
+            <a href="http://www.mozilla.org/" id="tabzilla">mozilla</a>
             <div id="header">
                 <div id="logo">
                     <a href="http://www.womoz.org"><img src="images/logo.png" alt="Women and Mozilla" width="160"></a>
@@ -196,7 +198,7 @@
                 </div>
             
                 <hr class="clear">
-            
+                <script src="//www.mozilla.org/tabzilla/media/js/tabzilla.js"></script>
             </div>
         </div>
     </body>

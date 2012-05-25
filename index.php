@@ -105,7 +105,7 @@
                     $feed->set_cache_location('simplepie/cache');
              
                     # Start and send text/html in UTF-8
-                    $feed->set_output_encoding('init');
+                    $feed->set_output_encoding('UTF-8');
                     $feed->init();
                     $feed->handle_content_type();
                   

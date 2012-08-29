@@ -41,7 +41,7 @@
     
                 <div id="main">
                     <div class="slogan">
-                        <h1>Take a part in Women and Mozilla</h1>
+                        <h1>Join the Women & Mozilla community</h1>
                         <h2>Diversity is an important part of every team</h2>
                     </div>
 
@@ -72,9 +72,16 @@
                             <li id="no3"><span>Visit our<br>WIKI<br>for projects<br>documentation</span></li>
 
                             <li id="no4">
-                <ul>
-                    <li><span>Join our mailing list<br> to keep up with our news</span></li>
-                </ul></li>
+
+                                <ul id="slide1-small">
+
+                                    <li><span>Join our mailing list<br />to keep up with our news</span></li>
+
+                                </ul>
+
+                                <span class="slide1-big">Women and Mozilla newsletter</span>
+
+                            </li>
 
                         </ul>
 
@@ -93,36 +100,33 @@
                     </div>
       
                     <div class="womanifesto">
-                        <ul>
-                        <li class="level1"><div class="li"> We are a community composed of members from different Open Source projects. We are dedicated to improving women's visibility and involvement in <abbr title="Free/Libre and Open Source Software">FLOSS</abbr> <sup><a class="fn_top" id="fnt__1" href="#fn__1">1)</a></sup> and <a rel="nofollow" title="http://www.mozilla.org/" class="urlextern" href="http://www.mozilla.org/">Mozilla</a>, and to increase the number of women contributors.</div>
-                        </li>
-                        </ul>
-                        <ul>
-                        <li class="level1"><div class="li"> Anyone can participate in this project, regardless of sex, age, job, etc. </div>
-                        </li>
-                        </ul>
-                        <ul>
-                        <li class="level1"><div class="li"> We are united by the common goal of promoting women's visibility and involvement in open source communities.</div>
-                        </li>
-                        </ul>
-                        <ul>
-                        <li class="level1"><div class="li"> We believe that the Internet, <abbr title="Free/Libre and Open Source Software">FLOSS</abbr> projects and computing must remain <strong>open</strong> and <strong>participatory</strong>. This also means accessible in the same way to all - women and men alike.</div>
-                        </li>
-                        </ul>
-                        <ul>
-                        <li class="level1"><div class="li"> As the <a rel="nofollow" title="http://www.mozilla.org/about/manifesto.en.html" class="urlextern" href="http://www.mozilla.org/about/manifesto.en.html">Mozilla Manifesto</a> underlines, we believe that all individuals must have the ability to shape their own experiences on the Internet. Let's give everyone the same opportunity to do so.</div>
-                        </li>
-                        </ul>
-                        <ul>
-                        <li class="level1"><div class="li"> We believe solutions should continuously be proposed in order to improve the visibility of all minorities, who for various reasons might not have equal access to computers or the Internet. This project is an example of this, as it aims at ameliorating women's presence and participation in Mozilla and open source. </div>
-                        </li>
-                        </ul>
-                        <ul>
-                        <li class="level1"><div class="li"> We believe Open Source needs more women!</div>
-                        </li>
-                        </ul>
+                        <p>We are a community composed of members from different Open Source 
+                            projects. We are mainly dedicated to improving women's visibility 
+                            and involvement in Free/Open Source and Mozilla, and to increase 
+                            the number of women contributors.</p>
+                        
+                        <p>Anyone can participate in this project, regardless of sex, age, 
+                            job, etc. We are united by the common goal of promoting women's 
+                            visibility and involvement in open source communities.</p>
 
-</div>
+
+                        <p>In fact, we believe that the Internet, FLOSS projects and computing 
+                            must remain open and participatory. This also means accessible in the
+                             same way to all - women and men alike.</p>
+
+                        <p>As the Mozilla Manifesto underlines, we believe that all individuals 
+                            must have the ability to shape their own experiences on the Internet. 
+                            So let's give everyone the same opportunity to do so.</p>
+
+                        <p>We believe solutions should continuously be proposed in order to improve
+                         the visibility of all minorities, who for various reasons might not have
+                          equal access to computers or the Internet. This project is an example of
+                           this, as it aims at ameliorating women's presence and participation in
+                            Mozilla and open source.</p>
+
+                        <p><strong>We believe Open Source needs more women! :)</strong></p>
+
+                    </div>
                 </div>
     
                 <div id="sidebar">

@@ -1,8 +1,8 @@
+<?php header('Content-Type:text/html; charset=UTF-8'); ?>
 <!DOCTYPE HTML>
 <html>
     <head lang="en">
-        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-        <meta http-equiv="content-language" content="en">
+        <meta charset="UTF-8">
         <title>Women &amp; Mozilla</title>
 
         <meta name="description" content="Gender Equality in Mozilla and FLOSS">
@@ -71,7 +71,10 @@
 
                             <li id="no3"><span>Visit our<br>WIKI<br>for projects<br>documentation</span></li>
 
-                            <li id="no4"></li>
+                            <li id="no4">
+                <ul>
+                    <li><span>Join our mailing list<br> to keep up with our news</span></li>
+                </ul></li>
 
                         </ul>
 
@@ -91,7 +94,7 @@
       
                     <div class="womanifesto">
                         <ul>
-                        <li class="level1"><div class="li"> We are a community composed of members from different Open Source projects. We are dedicated to improving women's visibility and involvement in <acronym title="Free/Libre and Open Source Software">FLOSS</acronym> <sup><a class="fn_top" id="fnt__1" name="fnt__1" href="#fn__1">1)</a></sup> and <a rel="nofollow" title="http://www.mozilla.org/" class="urlextern" href="http://www.mozilla.org/">Mozilla</a>, and to increase the number of women contributors.</div>
+                        <li class="level1"><div class="li"> We are a community composed of members from different Open Source projects. We are dedicated to improving women's visibility and involvement in <abbr title="Free/Libre and Open Source Software">FLOSS</abbr> <sup><a class="fn_top" id="fnt__1" href="#fn__1">1)</a></sup> and <a rel="nofollow" title="http://www.mozilla.org/" class="urlextern" href="http://www.mozilla.org/">Mozilla</a>, and to increase the number of women contributors.</div>
                         </li>
                         </ul>
                         <ul>
@@ -103,7 +106,7 @@
                         </li>
                         </ul>
                         <ul>
-                        <li class="level1"><div class="li"> We believe that the Internet, <acronym title="Free/Libre and Open Source Software">FLOSS</acronym> projects and computing must remain <strong>open</strong> and <strong>participatory</strong>. This also means accessible in the same way to all - women and men alike.</div>
+                        <li class="level1"><div class="li"> We believe that the Internet, <abbr title="Free/Libre and Open Source Software">FLOSS</abbr> projects and computing must remain <strong>open</strong> and <strong>participatory</strong>. This also means accessible in the same way to all - women and men alike.</div>
                         </li>
                         </ul>
                         <ul>

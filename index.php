@@ -174,36 +174,36 @@
   
             <div id="footer">
                 <div class="copyright">
-                    <a href="/" id="logo-footer"><img width="60" alt="WoMoz" src="images/logo.png"></a>
-                    <p id="copyright">Portions of this content are &copy;1998&ndash;2010 by individual mozilla.org contributors. Content available under a Creative Commons <a href="/foundation/licensing/website-content.html">license</a>.</p>
+                    <a href="http://www.mozilla.org/" id="logo-footer"><img width="60" alt="WoMoz" src="images/logo.png"></a>
+                    <p id="copyright">Portions of this content are &copy;1998&ndash;2012 by individual mozilla.org contributors. Content available under a Creative Commons <a href="/foundation/licensing/website-content.html">license</a>.</p>
                     <p id="copyright-links">
-                        <a class="first" href="/contact/">Contact Us</a><br>
-                        <a href="/about/policies/privacy-policy.html">Privacy Policy</a><br>
+                        <a class="first" href="http://www.mozilla.org/contact/">Contact Us</a><br>
+                        <a href="http://www.mozilla.org/about/policies/privacy-policy.html">Privacy Policy</a><br>
                         <a href="http://www.mozilla.com/en-US/legal/fraud-report/index.html">Report Trademark Abuse</a>
                     </p>
                 </div>
                 <div class="fotterul">
                     <h5><strong>About Mozilla</strong></h5>
                     <ul>
-                        <li><a href="/about/mission.html">Mission</a></li>
-                        <li><a href="/community/forums/">Forums</a></li>
-                        <li><a href="/about/governance.html">Governance</a></li>
-                        <li><a href="/about/organizations.html">Organizations</a></li>
-                        <li><a href="/grants/">Grants</a></li>
-                        <li><a href="/about/history.html">History</a></li>
-                        <li><a href="/about/faq.html">FAQs</a></li>
-                        <li><a href="/about/">More...</a></li>
+                        <li><a href="http://www.mozilla.org/about/mission.html">Mission</a></li>
+                        <li><a href="http://www.mozilla.org/community/forums/">Forums</a></li>
+                        <li><a href="http://www.mozilla.org/about/governance.html">Governance</a></li>
+                        <li><a href="http://www.mozilla.org/about/organizations.html">Organizations</a></li>
+                        <li><a href="http://www.mozilla.org/grants/">Grants</a></li>
+                        <li><a href="http://www.mozilla.org/about/history.html">History</a></li>
+                        <li><a href="http://www.mozilla.org/about/faq.html">FAQs</a></li>
+                        <li><a href="http://www.mozilla.org/about/">More...</a></li>
                     </ul>
                 </div>
                 <div class="fotterul">
                     <h5><strong>Community Map</strong></h5>
                     <ul>
-                        <li><a href="/community/index.html#applications">Applications</a></li>
-                        <li><a href="/community/index.html#code">Code</a></li>
-                        <li><a href="/community/index.html#incubators">Incubators</a></li>
-                        <li><a href="/community/index.html#community-sites">Community Sites</a></li>
-                        <li><a href="/community/directory.html">Directory</a></li>
-                        <li><a href="/community/">More...</a></li>
+                        <li><a href="http://www.mozilla.org/community/index.html#applications">Applications</a></li>
+                        <li><a href="http://www.mozilla.org/community/index.html#code">Code</a></li>
+                        <li><a href="http://www.mozilla.org/community/index.html#incubators">Incubators</a></li>
+                        <li><a href="http://www.mozilla.org/community/index.html#community-sites">Community Sites</a></li>
+                        <li><a href="http://www.mozilla.org/community/directory.html">Directory</a></li>
+                        <li><a href="http://www.mozilla.org/community/">More...</a></li>
                     </ul>
                 </div>
                 <div class="fotterul">
@@ -213,10 +213,10 @@
                         <li><a href="http://www.getthunderbird.com">Thunderbird</a></li>
                         <li><a href="http://www.drumbeat.org/projects">Drumbeat</a></li>
                         <li><a href="http://www.mozillalabs.com/projects">Mozilla Labs</a></li>
-                        <li><a href="/support">Support</a></li>
+                        <li><a href="http://www.mozilla.org/support">Support</a></li>
                         <li><a href="https://addons.mozilla.org">Add-ons</a></li>
-                        <li><a href="/security/announce">Security Advisories</a></li>
-                        <li><a href="/projects/">More...</a></li>
+                        <li><a href="http://www.mozilla.org/security/announce">Security Advisories</a></li>
+                        <li><a href="http://www.mozilla.org/projects/">More...</a></li>
                     </ul>
                 </div>
                 <div class="fotterul">
@@ -224,12 +224,12 @@
                     <ul>
                         <li><a href="https://developer.mozilla.org/En/Developer_Guide">Developing</a></li>
                         <li><a href="https://developer.mozilla.org/Project:en/How_to_Help">Documentation</a></li>
-                        <li><a href="/foundation/donate.html">Donate</a></li>
+                        <li><a href="http://www.mozilla.org/foundation/donate.html">Donate</a></li>
                         <li><a href="https://wiki.mozilla.org/L10n">Localization</a></li>
                         <li><a href="http://contribute.mozilla.org/Marketing">Marketing</a></li>
                         <li><a href="http://quality.mozilla.org/">Testing</a></li>
                         <li><a href="http://blog.mozilla.com/webdev/get-involved/">Webdev</a></li>
-                        <li><a href="/contribute">More...</a></li>
+                        <li><a href="http://www.mozilla.org/contribute">More...</a></li>
                     </ul>
                 </div>
             

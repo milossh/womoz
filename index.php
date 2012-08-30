@@ -68,7 +68,11 @@
                                 </a>
                             </li>
 
-                            <li id="no2"><span>Explore our<br>video section</span></li>
+                            <li id="no2">
+                                <a href="http://womoz.mirocommunity.org/" alt="Women and Mozilla Video">
+                                    <span>Explore our<br>video section</span>
+                                </a>
+                            </li>
 
                             <li id="no3">
                                 <a href="http://womoz.org/wiki" alt="Women and Mozilla Wiki">

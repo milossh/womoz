@@ -175,7 +175,7 @@
             <div id="footer">
                 <div class="copyright">
                     <a href="http://www.mozilla.org/" id="logo-footer"><img width="60" alt="WoMoz" src="images/logo.png"></a>
-                    <p id="copyright">Portions of this content are &copy;1998&ndash;2012 by individual mozilla.org contributors. Content available under a Creative Commons <a href="/foundation/licensing/website-content.html">license</a>.</p>
+                    <p id="copyright">Portions of this content are &copy;1998&ndash;2012 by individual mozilla.org contributors. Content available under a Creative Commons <a href="http://www.mozilla.org/foundation/licensing/website-content.html">license</a>.</p>
                     <p id="copyright-links">
                         <a class="first" href="http://www.mozilla.org/contact/">Contact Us</a><br>
                         <a href="http://www.mozilla.org/about/policies/privacy-policy.html">Privacy Policy</a><br>
@@ -191,7 +191,6 @@
                         <li><a href="http://www.mozilla.org/about/organizations.html">Organizations</a></li>
                         <li><a href="http://www.mozilla.org/grants/">Grants</a></li>
                         <li><a href="http://www.mozilla.org/about/history.html">History</a></li>
-                        <li><a href="http://www.mozilla.org/about/faq.html">FAQs</a></li>
                         <li><a href="http://www.mozilla.org/about/">More...</a></li>
                     </ul>
                 </div>

@@ -50,37 +50,43 @@
                         <ul class="slider-holder">
 
                             <li id="no1">
+                                <a href="http://www.womoz.org/blog/" alt="Women and Mozilla Blogs">
+                                    <ul id="slide1-small">
 
-                                <ul id="slide1-small">
+                                        <li><span>latest news</span></li>
 
-                                    <li><span>latest news</span></li>
+                                        <li><span>contributors' stories</span></li>
 
-                                    <li><span>contributors' stories</span></li>
+                                        <li><span>community events</span></li>
 
-                                    <li><span>community events</span></li>
+                                        <li><span>surveys and analysis</span></li>
 
-                                    <li><span>surveys and analysis</span></li>
+                                    </ul>
 
-                                </ul>
+                                    <span class="slide1-big">Women and Mozilla blogs</span>
 
-                                <span class="slide1-big">Women and Mozilla blogs</span>
-
+                                </a>
                             </li>
 
                             <li id="no2"><span>Explore our<br>video section</span></li>
 
-                            <li id="no3"><span>Visit our<br>WIKI<br>for projects<br>documentation</span></li>
+                            <li id="no3">
+                                <a href="http://womoz.org/wiki" alt="Women and Mozilla Wiki">
+                                    <span>Visit our<br>WIKI<br>for projects<br>documentation</span>
+                                </a>
+                            </li>
 
                             <li id="no4">
+                                <a href="http://lists.womoz.org/mailman/listinfo/womoz" alt="Women and Mozilla Newsletter">
 
-                                <ul id="slide1-small">
+                                    <ul id="slide1-small">
 
-                                    <li><span>Join our mailing list<br />to keep up with our news</span></li>
+                                        <li><span>Join our mailing list<br />to keep up with our news</span></li>
 
-                                </ul>
+                                    </ul>
 
-                                <span class="slide1-big">Women and Mozilla newsletter</span>
-
+                                    <span class="slide1-big">Women and Mozilla newsletter</span>
+                                </a>
                             </li>
 
                         </ul>

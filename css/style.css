@@ -377,7 +377,7 @@ text-shadow:-3px 3px 6px #000000;
 .slide1-big {
 color:#A5151E;
 display:block;
-font-family:sans-serif;
+font-family:sans-serif, arial;
 font-size:39px;
 font-weight:bold;
 list-style:none outside none;
